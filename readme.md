@@ -1,9 +1,4 @@
 ## Express Assignments
-
-This is a two parter! Complete part one and then we will regroup and discuss the challenge. After that we'll go for part two!
-
-## Part One:
-
 ### Challenge 1:
 Create a GET route for "/hello" that returns the response "Hello!".
 
